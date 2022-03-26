@@ -1,0 +1,21 @@
+.error-label {
+  color: red;
+}
+
+.button {
+  background-color: #d1d5ec;
+  color: #192da1;
+  width: 100%;
+}
+
+.color {
+  color: #192da1;
+}
+
+p {
+  text-align: center;
+}
+
+label {
+  color: grey;
+}
